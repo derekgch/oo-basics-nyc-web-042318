@@ -6,7 +6,7 @@ class Shoe
 
   def cobble
 
-    put
+    puts "new again"
 
   end
 

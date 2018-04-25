@@ -4,5 +4,8 @@ class Shoe
   attr_accessor :condition
 
 
+  def cobble
+
+  end
 
 end

@@ -6,6 +6,8 @@ class Shoe
 
   def cobble
 
+    put
+
   end
 
 end
